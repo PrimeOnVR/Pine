@@ -8,7 +8,21 @@ All documentation of Pine is written into comments and inside of Pine Manager
 
 ## Installation
 
+Open releases
+
+![2023-03-09 14_07_23-PrimeOnVR_Pine_ A set of helpful tools you can use in Python](https://user-images.githubusercontent.com/120683059/224171435-bd83a1f7-2f81-4f7a-a3cd-41eaea9b2d16.png)
+
+Click the latest version
+
+![2023-03-09 14_07_42-Tags · PrimeOnVR_Pine](https://user-images.githubusercontent.com/120683059/224172199-73d06f03-12cc-43df-94e1-4147a732d243.png)
+
+Download PineManager.py
+
+![2023-03-09 14_07_59-Release Pine 6 · PrimeOnVR_Pine](https://user-images.githubusercontent.com/120683059/224171620-ff9c749f-c8d7-4b1d-b0e1-ad1c0af45edf.png)
+
 Transfer the file to the project folder in your preferred IDE
+
+![2023-03-09 14_12_23-pythonProject – PineManager py](https://user-images.githubusercontent.com/120683059/224172152-ab551bcc-6776-46ca-8088-a3ba94ecee9a.png)
 
 Run the Pine Manager python script
 
@@ -17,6 +31,10 @@ Run the Pine Manager python script
 Click install
 
 ![2023-03-08 09_44_20-pythonProject – LearnPython py](https://user-images.githubusercontent.com/120683059/223789805-975cd904-4f4b-4c8e-9264-0ec9bdc4fd51.png)
+
+Click submit
+
+![2023-03-09 14_14_16-pythonProject – PineManager py](https://user-images.githubusercontent.com/120683059/224172530-9ca2c3e8-1f31-4f1a-8823-5da4604fac47.png)
 
 Close the window
 
